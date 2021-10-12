@@ -7,4 +7,4 @@ It is language-agnostic interface for various communications platforms such as D
 
 ---
 
-## TODO: Write a readme for ZigZag.NET
+## TODO: Write a readme for ZigZag.rs
